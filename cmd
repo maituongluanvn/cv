@@ -1,0 +1,1 @@
+docker run --rm -v $(pwd):/documents asciidoctor/docker-asciidoctor asciidoctor -a stylesheet=style.css  index.adoc
