@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1,
+    "title": "Init blog",
+    "author": "Mai Luan",
+    "content": "event - compiled client and server successfully in 58 ms (128 modules)wait  - compiling /_error (client and server)...event - compiled client and server successfully in 39 ms (128 modules)error - FetchError: request to https://.../posts failed, reason: getaddrinfo ENOTFOUND ...error - FetchError: request to https://.../posts failed, reason: getaddrinfo ENOTFOUND ..."
+  }
+]
