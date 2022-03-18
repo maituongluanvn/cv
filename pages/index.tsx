@@ -18,10 +18,10 @@ function Index({ cv }: { cv: FileContent }) {
   return (
     <Container maxWidth="lg" fixed>
       <Stack direction="row" divider={<Divider orientation="vertical" flexItem />} spacing={2}>
-        <Grid justifyContent="center" xs={12}>
+        <Grid justifyContent="center" xs={18}>
           <div dangerouslySetInnerHTML={{ __html: marked(cv.content) }}></div>
         </Grid>
-        <Grid justifyContent="center" item xs={12}>
+        <Grid justifyContent="center" item xs={4}>
           asd
         </Grid>
       </Stack>

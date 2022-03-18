@@ -1,73 +1,101 @@
 ---
-title: 'Mai Tuong Luan'
-date: 'March 5, 2021'
-excerpt: 'Django is a very powerful, high level Python framework for building web applications'
+title: 'mai tuong luan'
+date: 'march 5, 2021'
+excerpt: 'django is a very powerful, high level python framework for building web applications'
 cover_image: '/images/posts/img3.jpg'
 ---
 
+# mai tuong luan
+
+#### software developer
+
 # highlights
 
-Participated in various events of university at organizer.
+participated in various events of university at organizer.
 
-- Lead in almost every subjects at University as a team leader.
+- lead in almost every subjects at university as a team leader.
 
-- Had 16 months experience in Web Development.
+- had 16 months experience in web development.
 
-- Experienced in NodeJS, ReactJS, JavaScript, MongoDB,
-  PostgreSQL, Agile model.
+- experienced in nodejs, reactjs, javascript, mongodb,
+  postgresql, agile model.
 
-- Fast learning, teamwork and presentation skills
+- fast learning, teamwork and presentation skills
 
 # experience
 
-## Full-stack developer
+## full-stack developer
 
-### Finviet Company
+### finviet company
 
-#### Apr 2019 - Sep 2019
+#### apr 2019 - sep 2019
 
-- Develop a ERP System for finance department and Digital
-  marketing systemWorked.
+- develop a erp system for finance department and digital
+  marketing systemworked.
 
-- My stack: NodeJS, ExpressJS, ReactJS, ReactAdmin, MongoDB.
-
----
-
-## Full-stack developer
-
-### Spirit labs Company
-
-#### Jul 2020 - Apr 2021
-
-\*\* PSDP Project
-
-Review and merge code.
-
-- Develop a CMS website.
-
-- Re-structure database design.
-
-- Coding function and Access Control List with JWT.
-
-- Optimize database and clean code.
-
-- Code ci-cd code pipeline
-
-- Using Nodejs, FastifyJS, ReactJS, PostgreSQL, JWT, ...
-
-\*\* ITAP Project and Sitex Project
-
-- Tracking a user behavior data with Mixpanel ( coding on front end
-  with ReactJS, NextJS ).
-
-- Create report dashboard and data analyze for business.
+- my stack: nodejs, expressjs, reactjs, reactadmin, mongodb.
 
 ---
 
-## Business Analyst
+## full-stack developer
 
-### Van Lang University
+### spirit labs company
 
-#### May 2019 - May 2020
+#### jul 2020 - apr 2021
 
-- Received new requirements from customer for developing website\
+##### psdp project
+
+review and merge code.
+
+- develop a cms website.
+
+- re-structure database design.
+
+- coding function and access control list with jwt.
+
+- optimize database and clean code.
+
+- code ci-cd code pipeline
+
+- using nodejs, fastifyjs, reactjs, postgresql, jwt, ...
+
+##### itap project and sitex project
+
+- tracking a user behavior data with mixpanel ( coding on front end
+  with reactjs, nextjs ).
+
+- create report dashboard and data analyze for business.
+
+---
+
+# business analyst
+
+### van lang university
+
+#### may 2019 - may 2020
+
+- received new requirements from customer for developing website\
+
+# education
+
+#### aug 2016 - jul 2020
+
+- van lang university - bachelor of software engineering
+
+#### oct 2020 - nov 2020
+
+- udemy - database bootcamp ( postgresql, optimize database, design database structure )
+
+#### mar 2021 - apr 2021
+
+- udemy - amazon service cloud ( ec2, aws s3 )
+
+## social activities
+
+#### jun 2018 - july 2018
+
+- green summer volunteer campaign - infrastructure team lead
+
+#### oct 2019 - nov 2019
+
+- its music festival - head of logistics
